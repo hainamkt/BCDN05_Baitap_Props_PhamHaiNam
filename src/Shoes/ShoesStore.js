@@ -2,6 +2,8 @@ import React, { Component } from 'react'
 import Modal from './Modal';
 import ProductList from './ProductList';
 
+// Deloy surge: shoeshopdevnam.surge.sh
+
 export default class ShoesStore extends Component {
 
   arrShoes = [
