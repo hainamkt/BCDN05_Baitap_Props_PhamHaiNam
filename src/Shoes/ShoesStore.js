@@ -3,6 +3,7 @@ import Modal from './Modal';
 import ProductList from './ProductList';
 
 // Link deloy surge: shoeshopdevnam.surge.sh
+// Link deloy vercel: bcdn-05-baitap-props-pham-hai-nam-hainamkt.vercel.app
 
 export default class ShoesStore extends Component {
 
